@@ -3,8 +3,8 @@
 </br>
 <div align="center">
 <a href="https://unity.com/"><img src="./readme-content/Unity.png" width="75" height="75"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./readme-content/CSharp.png" width="70" height="75"></a>
-<a href="https://developers.google.com/ar"><img src="./readme-content/ARCore.png" width="75" height="75"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="./readme-content/CSharp.png" width="75" height="75"></a>
+<a href="https://developers.google.com/ar"><img src="./readme-content/ARCore.png" width="65" height="75"></a>
 
 </div>
 
