@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class RotationController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject PlanetObject;
+    public Vector3 RotationVector;
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        PlanetObject.transform.Rotate(RotationVector * Time.deltaTime);
     }
 }

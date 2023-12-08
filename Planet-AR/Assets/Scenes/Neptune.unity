@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 311457387}
   - component: {fileID: 311457386}
   m_Layer: 0
-  m_Name: Earth
+  m_Name: Neptune
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -250,7 +250,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 74ae555ef8eb04084acfe8f0fb49c71e, type: 2}
+  - {fileID: 2100000, guid: 398094ddf330e4083b833d81b5833a6d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
